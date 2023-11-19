@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "César Vázquez"
-  avatar : "/assets/images/spain.jpg"
+  avatar : "/assets/images/spain.png"
   bio    : "Navigation engineer and software enthusiast"
   links:
     - label: "Website"
